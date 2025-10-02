@@ -4,13 +4,12 @@
 <div align="center">
   
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28px"> Hello, world! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> Eu sou Zeca Correia 
- 💻 Sou um desenvolvedor fullstack apaixonado por matemática, design e principalmente por tecnologia<br>
- 🎓 Formando em ADS na FICR<br>
+ 💻 Sou um desenvolvedor Front-end apaixonado por games e coisas de nerd!<br>
 </div>
 
 <!--CARDS-->
 <div align="center">
-  <a href="https://github.com/zecacorreia">
+  <a href="https://github.com/zthemello">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zecacorreia&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zecacorreia&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
