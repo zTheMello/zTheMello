@@ -10,12 +10,12 @@
 <!--CARDS-->
 <div align="center">
   <a href="https://github.com/zthemello">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zecacorreia&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zecacorreia&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zthemello&show_icons=true&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zthemello&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 </div>
 
 <div style="display: inline_block" align="center"><br>
-  <img aling="center" alt="Zeca-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img aling="center" alt="MM-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img  alt="MM-Js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;
   <img  alt="MM-React"  src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">&nbsp;
   <img alt="MM-node" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;
